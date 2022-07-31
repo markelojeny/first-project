@@ -96,8 +96,6 @@
   background-color: #2f80ed;
   z-index: 1;
 }
-.content {
-}
 
 .description {
   padding-top: 100px;
@@ -332,10 +330,6 @@
   flex-basis: 711px;
 }
 
-.logo_place_footer {
-
-}
-
 .footer__author {
   margin: 18px 0;
   color: white;
@@ -362,14 +356,6 @@
   font-size: 18px;
   text-decoration: none;
   color: #fff;
-}
-
-.footer__column_content_info {
-
-}
-
-.footer__column_content_social {
-
 }
 
 .footer__social-icon {
